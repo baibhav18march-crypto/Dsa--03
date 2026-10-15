@@ -1,0 +1,14 @@
+# Compiled class files
+bin/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
